@@ -1,6 +1,6 @@
 print('bem vindo ao jogo da forca')
-from palavraforca import palavra
-from palavraforca import dica
+from wordlwall import palavra
+from worldwall import dica
 print('boa sorte!')
 letras = []
 ndechances = 5
